@@ -1,0 +1,16 @@
+C:\Users\anikk\OneDrive\Desktop\Final Version\4_tier_webapi\BLL\bin\Debug\BLL.dll
+C:\Users\anikk\OneDrive\Desktop\Final Version\4_tier_webapi\BLL\bin\Debug\BLL.pdb
+C:\Users\anikk\OneDrive\Desktop\Final Version\4_tier_webapi\BLL\bin\Debug\BEL.dll
+C:\Users\anikk\OneDrive\Desktop\Final Version\4_tier_webapi\BLL\bin\Debug\DAL.dll
+C:\Users\anikk\OneDrive\Desktop\Final Version\4_tier_webapi\BLL\bin\Debug\EntityFramework.dll
+C:\Users\anikk\OneDrive\Desktop\Final Version\4_tier_webapi\BLL\bin\Debug\BEL.pdb
+C:\Users\anikk\OneDrive\Desktop\Final Version\4_tier_webapi\BLL\bin\Debug\DAL.pdb
+C:\Users\anikk\OneDrive\Desktop\Final Version\4_tier_webapi\BLL\bin\Debug\DAL.dll.config
+C:\Users\anikk\OneDrive\Desktop\Final Version\4_tier_webapi\BLL\bin\Debug\EntityFramework.xml
+C:\Users\anikk\OneDrive\Desktop\Final Version\4_tier_webapi\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\anikk\OneDrive\Desktop\Final Version\4_tier_webapi\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\anikk\OneDrive\Desktop\Final Version\4_tier_webapi\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\anikk\OneDrive\Desktop\Final Version\4_tier_webapi\BLL\obj\Debug\BLL.dll
+C:\Users\anikk\OneDrive\Desktop\Final Version\4_tier_webapi\BLL\obj\Debug\BLL.pdb
+C:\Users\anikk\OneDrive\Desktop\Final Version\4_tier_webapi\BLL\bin\Debug\AutoMapper.dll
+C:\Users\anikk\OneDrive\Desktop\Final Version\4_tier_webapi\BLL\bin\Debug\AutoMapper.xml

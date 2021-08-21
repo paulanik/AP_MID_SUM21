@@ -1,6 +1,0 @@
-C:\Users\anikk\OneDrive\Desktop\.Net Project\Final Term Assignment\Assignment2\App_BackEnd\BEL\bin\Debug\BEL.dll
-C:\Users\anikk\OneDrive\Desktop\.Net Project\Final Term Assignment\Assignment2\App_BackEnd\BEL\bin\Debug\BEL.pdb
-C:\Users\anikk\OneDrive\Desktop\.Net Project\Final Term Assignment\Assignment2\App_BackEnd\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
-C:\Users\anikk\OneDrive\Desktop\.Net Project\Final Term Assignment\Assignment2\App_BackEnd\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
-C:\Users\anikk\OneDrive\Desktop\.Net Project\Final Term Assignment\Assignment2\App_BackEnd\BEL\obj\Debug\BEL.dll
-C:\Users\anikk\OneDrive\Desktop\.Net Project\Final Term Assignment\Assignment2\App_BackEnd\BEL\obj\Debug\BEL.pdb
