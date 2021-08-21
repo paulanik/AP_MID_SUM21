@@ -1,0 +1,6 @@
+C:\Users\anikk\OneDrive\Desktop\Final Version\4_tier_webapi\BEL\bin\Debug\BEL.dll
+C:\Users\anikk\OneDrive\Desktop\Final Version\4_tier_webapi\BEL\bin\Debug\BEL.pdb
+C:\Users\anikk\OneDrive\Desktop\Final Version\4_tier_webapi\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+C:\Users\anikk\OneDrive\Desktop\Final Version\4_tier_webapi\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\Users\anikk\OneDrive\Desktop\Final Version\4_tier_webapi\BEL\obj\Debug\BEL.dll
+C:\Users\anikk\OneDrive\Desktop\Final Version\4_tier_webapi\BEL\obj\Debug\BEL.pdb
